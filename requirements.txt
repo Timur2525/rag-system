@@ -1,0 +1,13 @@
+markitdown
+markitdown[pdf]
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-chroma
+langchain_huggingface
+chromadb
+gradio
+python-dotenv
+aiogram
